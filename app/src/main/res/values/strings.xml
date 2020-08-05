@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">workOutApp</string>
+    <string name="textView">Select your workout</string>
+    <string-array name="workOuts">
+        <item>chest</item>
+        <item>Back</item>
+        <item>triceps</item>
+        <item>shoulder</item>
+        <item>Legs</item>
+        <item>Biceps</item>
+    </string-array>
+</resources>
